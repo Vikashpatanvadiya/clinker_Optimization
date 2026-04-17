@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
 
-const Sidebar = ({ activeView, setActiveView }) => {
+const Sidebar = ({ activeView, setActiveView, isOpen }) => {
   const { isPremium, appMode } = useTheme();
 
   // Different menu items based on app mode
@@ -31,16 +31,14 @@ const Sidebar = ({ activeView, setActiveView }) => {
       ];
 
   return (
-    <motion.aside
-      initial={{ x: -300 }}
-      animate={{ x: 0 }}
-      exit={{ x: -300 }}
-      transition={{ type: "tween", duration: 0.15, ease: "easeOut" }}
+    <aside
       className={`fixed left-0 top-16 h-[calc(100vh-4rem)] w-64 z-40 ${
         isPremium
           ? 'bg-premium-dark/95 backdrop-blur-md border-r border-premium-neon/20'
           : 'bg-white border-r border-gray-200'
-      } transition-all duration-300 overflow-y-auto`}
+      } overflow-y-auto transform transition-transform duration-200 ease-in-out ${
+        isOpen ? 'translate-x-0' : '-translate-x-full'
+      }`}
     >
       <div className="p-3 sm:p-4 space-y-4 sm:space-y-6">
         {/* Mode Indicator */}
@@ -167,7 +165,7 @@ const Sidebar = ({ activeView, setActiveView }) => {
           </div>
         )}
       </div>
-    </motion.aside>
+    </aside>
   );
 };
 

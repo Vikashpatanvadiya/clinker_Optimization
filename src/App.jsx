@@ -114,15 +114,17 @@ function AppContent() {
       <Header sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} activeView={activeView} setActiveView={handleViewChange} />
       
       <div className="flex relative">
-        <AnimatePresence>
-          {sidebarOpen && <Sidebar activeView={activeView} setActiveView={handleViewChange} />}
-        </AnimatePresence>
+        <Sidebar activeView={activeView} setActiveView={handleViewChange} isOpen={sidebarOpen} />
         
-        {sidebarOpen && (
-          <div className="fixed inset-0 bg-black bg-opacity-50 z-30 lg:hidden" onClick={() => setSidebarOpen(false)} />
-        )}
+        {/* Overlay for mobile */}
+        <div
+          className={`fixed inset-0 bg-black z-30 lg:hidden transition-opacity duration-200 ${
+            sidebarOpen ? 'opacity-50 pointer-events-auto' : 'opacity-0 pointer-events-none'
+          }`}
+          onClick={() => setSidebarOpen(false)}
+        />
         
-        <main className={`flex-1 transition-all duration-150 min-h-[calc(100vh-4rem)] ${sidebarOpen ? 'lg:ml-64' : 'ml-0'}`}>
+        <main className={`flex-1 transition-all duration-200 min-h-[calc(100vh-4rem)] ${sidebarOpen ? 'lg:ml-64' : 'ml-0'}`}>
           <div className="p-3 sm:p-4 lg:p-6">
             {error ? (
               <div className="flex items-center justify-center h-64">
