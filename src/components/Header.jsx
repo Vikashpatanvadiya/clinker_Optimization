@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Menu, Settings, Zap, Building2, Command } from 'lucide-react';
+import { Settings, Zap, Building2, Command } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
 import ThemeToggle from './ThemeToggle';
 import AppModeToggle from './AppModeToggle';
@@ -25,16 +25,46 @@ const Header = ({ sidebarOpen, setSidebarOpen, activeView, setActiveView }) => {
     >
       <div className="flex items-center justify-between px-3 sm:px-4 lg:px-6 h-14 sm:h-16">
         <div className="flex items-center space-x-2 sm:space-x-4">
-          <button
+          <motion.button
             onClick={() => setSidebarOpen(!sidebarOpen)}
             className={`p-2 rounded-lg transition-colors ${
               isPremium
                 ? 'hover:bg-premium-neon/10 text-premium-neon'
                 : 'hover:bg-gray-100 text-gray-600'
             }`}
+            whileTap={{ scale: 0.85 }}
+            whileHover={{ scale: 1.1 }}
           >
-            <Menu size={20} />
-          </button>
+            <motion.div
+              animate={sidebarOpen ? "open" : "closed"}
+              className="w-5 h-5 flex flex-col justify-center items-center gap-[4px]"
+            >
+              <motion.span
+                className={`block h-[2px] w-5 rounded-full origin-center ${isPremium ? 'bg-premium-neon' : 'bg-gray-600'}`}
+                variants={{
+                  closed: { rotate: 0, y: 0 },
+                  open: { rotate: 45, y: 6 },
+                }}
+                transition={{ duration: 0.3 }}
+              />
+              <motion.span
+                className={`block h-[2px] w-5 rounded-full ${isPremium ? 'bg-premium-neon' : 'bg-gray-600'}`}
+                variants={{
+                  closed: { opacity: 1, scaleX: 1 },
+                  open: { opacity: 0, scaleX: 0 },
+                }}
+                transition={{ duration: 0.2 }}
+              />
+              <motion.span
+                className={`block h-[2px] w-5 rounded-full origin-center ${isPremium ? 'bg-premium-neon' : 'bg-gray-600'}`}
+                variants={{
+                  closed: { rotate: 0, y: 0 },
+                  open: { rotate: -45, y: -6 },
+                }}
+                transition={{ duration: 0.3 }}
+              />
+            </motion.div>
+          </motion.button>
           
           <div className="flex items-center space-x-2 sm:space-x-3">
             {isPremium ? (
