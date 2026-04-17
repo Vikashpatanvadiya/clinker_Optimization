@@ -35,7 +35,7 @@ const Sidebar = ({ activeView, setActiveView }) => {
       initial={{ x: -300 }}
       animate={{ x: 0 }}
       exit={{ x: -300 }}
-      transition={{ type: "spring", stiffness: 300, damping: 30 }}
+      transition={{ type: "tween", duration: 0.15, ease: "easeOut" }}
       className={`fixed left-0 top-16 h-[calc(100vh-4rem)] w-64 z-40 ${
         isPremium
           ? 'bg-premium-dark/95 backdrop-blur-md border-r border-premium-neon/20'
