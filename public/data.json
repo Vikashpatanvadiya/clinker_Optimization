@@ -1,0 +1,6233 @@
+{
+  "ClinkerDemand": [
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 1,
+      "DEMAND": 222553,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 1,
+      "DEMAND": 72369,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 1,
+      "DEMAND": 161885,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 1,
+      "DEMAND": 216053,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 1,
+      "DEMAND": 142403,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 1,
+      "DEMAND": 195696,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 1,
+      "DEMAND": 264228,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 1,
+      "DEMAND": 142297,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 1,
+      "DEMAND": 108302,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 1,
+      "DEMAND": 86799,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 1,
+      "DEMAND": 63895,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 1,
+      "DEMAND": 141200,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 1,
+      "DEMAND": 212187,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 1,
+      "DEMAND": 189353,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 1,
+      "DEMAND": 164015,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 1,
+      "DEMAND": 222387,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 1,
+      "DEMAND": 72902,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 1,
+      "DEMAND": 267588,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 1,
+      "DEMAND": 231997,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 1,
+      "DEMAND": 232114,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 1,
+      "DEMAND": 208606,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 1,
+      "DEMAND": 185454,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 1,
+      "DEMAND": 164015,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 1,
+      "DEMAND": 118459,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 1,
+      "DEMAND": 244150,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 1,
+      "DEMAND": 51565,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 1,
+      "DEMAND": 247363,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 1,
+      "DEMAND": 273307,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 1,
+      "DEMAND": 64083,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 1,
+      "DEMAND": 280865,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 1,
+      "DEMAND": 124400,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 1,
+      "DEMAND": 73775,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 1,
+      "DEMAND": 197269,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 1,
+      "DEMAND": 222191,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 1,
+      "DEMAND": 106883,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 1,
+      "DEMAND": 226756,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 1,
+      "DEMAND": 229332,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 1,
+      "DEMAND": 176743,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 1,
+      "DEMAND": 231068,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 1,
+      "DEMAND": 209478,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "DEMAND": 200210,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 1,
+      "DEMAND": 196158,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 1,
+      "DEMAND": 241386,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 1,
+      "DEMAND": 277367,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 2,
+      "DEMAND": 266578,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 2,
+      "DEMAND": 148436,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 2,
+      "DEMAND": 294543,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 2,
+      "DEMAND": 263388,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 2,
+      "DEMAND": 242119,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 2,
+      "DEMAND": 175735,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 2,
+      "DEMAND": 208628,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 2,
+      "DEMAND": 266398,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 2,
+      "DEMAND": 277306,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 2,
+      "DEMAND": 221636,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 2,
+      "DEMAND": 90017,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 2,
+      "DEMAND": 124345,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 2,
+      "DEMAND": 153205,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 2,
+      "DEMAND": 253901,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 2,
+      "DEMAND": 214935,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 2,
+      "DEMAND": 267294,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 2,
+      "DEMAND": 105102,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 2,
+      "DEMAND": 102398,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 2,
+      "DEMAND": 50816,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 2,
+      "DEMAND": 250634,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 2,
+      "DEMAND": 222050,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 2,
+      "DEMAND": 143859,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 2,
+      "DEMAND": 195183,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 2,
+      "DEMAND": 209619,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 2,
+      "DEMAND": 200504,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 2,
+      "DEMAND": 116641,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 2,
+      "DEMAND": 71953,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 2,
+      "DEMAND": 50783,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 2,
+      "DEMAND": 179832,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 2,
+      "DEMAND": 212325,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 2,
+      "DEMAND": 51215,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 2,
+      "DEMAND": 102045,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 2,
+      "DEMAND": 192586,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 2,
+      "DEMAND": 99055,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 2,
+      "DEMAND": 65380,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 2,
+      "DEMAND": 67992,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 2,
+      "DEMAND": 252304,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 2,
+      "DEMAND": 149210,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 2,
+      "DEMAND": 202505,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 2,
+      "DEMAND": 166301,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "DEMAND": 287551,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 2,
+      "DEMAND": 51341,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 2,
+      "DEMAND": 140555,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 2,
+      "DEMAND": 55915,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 3,
+      "DEMAND": 110358,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 3,
+      "DEMAND": 104867,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 3,
+      "DEMAND": 186037,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 3,
+      "DEMAND": 198258,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 3,
+      "DEMAND": 220919,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 3,
+      "DEMAND": 265904,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 3,
+      "DEMAND": 98934,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 3,
+      "DEMAND": 164845,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 3,
+      "DEMAND": 292848,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 3,
+      "DEMAND": 257267,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 3,
+      "DEMAND": 144996,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 3,
+      "DEMAND": 146479,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 3,
+      "DEMAND": 122206,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 3,
+      "DEMAND": 86233,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 3,
+      "DEMAND": 163201,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 3,
+      "DEMAND": 230651,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 3,
+      "DEMAND": 90635,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 3,
+      "DEMAND": 112526,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 3,
+      "DEMAND": 118548,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 3,
+      "DEMAND": 283875,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 3,
+      "DEMAND": 285221,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 3,
+      "DEMAND": 136637,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 3,
+      "DEMAND": 59465,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 3,
+      "DEMAND": 216951,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 3,
+      "DEMAND": 132503,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 3,
+      "DEMAND": 145208,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 3,
+      "DEMAND": 117764,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 3,
+      "DEMAND": 220742,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 3,
+      "DEMAND": 130776,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 3,
+      "DEMAND": 168561,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 3,
+      "DEMAND": 234965,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 3,
+      "DEMAND": 170104,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 3,
+      "DEMAND": 88487,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 3,
+      "DEMAND": 61344,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 3,
+      "DEMAND": 140530,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 3,
+      "DEMAND": 292534,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 3,
+      "DEMAND": 206569,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 3,
+      "DEMAND": 118452,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 3,
+      "DEMAND": 205242,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 3,
+      "DEMAND": 228684,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "DEMAND": 133925,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 3,
+      "DEMAND": 99568,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 3,
+      "DEMAND": 83619,
+      "MIN FULFILLMENT": 0
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 3,
+      "DEMAND": 159473,
+      "MIN FULFILLMENT": 0
+    }
+  ],
+  "ClinkerCapacity": [
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 1,
+      "CAPACITY": 288751
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 1,
+      "CAPACITY": 300410
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 1,
+      "CAPACITY": 379812
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 1,
+      "CAPACITY": 345954
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 1,
+      "CAPACITY": 285770
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 1,
+      "CAPACITY": 246189
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 1,
+      "CAPACITY": 351330
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 1,
+      "CAPACITY": 360742
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 1,
+      "CAPACITY": 72689
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 1,
+      "CAPACITY": 143989
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 1,
+      "CAPACITY": 335545
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 1,
+      "CAPACITY": 289691
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 1,
+      "CAPACITY": 390059
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 1,
+      "CAPACITY": 215774
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 1,
+      "CAPACITY": 99080
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 1,
+      "CAPACITY": 52532
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 1,
+      "CAPACITY": 305267
+    },
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 1,
+      "CAPACITY": 229295
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 1,
+      "CAPACITY": 237689
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 1,
+      "CAPACITY": 102218
+    },
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 2,
+      "CAPACITY": 163213
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 2,
+      "CAPACITY": 94152
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 2,
+      "CAPACITY": 206278
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 2,
+      "CAPACITY": 68197
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 2,
+      "CAPACITY": 261977
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 2,
+      "CAPACITY": 297319
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 2,
+      "CAPACITY": 290623
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 2,
+      "CAPACITY": 233772
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 2,
+      "CAPACITY": 122143
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 2,
+      "CAPACITY": 70257
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 2,
+      "CAPACITY": 312051
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 2,
+      "CAPACITY": 125440
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 2,
+      "CAPACITY": 39255
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 2,
+      "CAPACITY": 242965
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 2,
+      "CAPACITY": 122528
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 2,
+      "CAPACITY": 126238
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 2,
+      "CAPACITY": 48377
+    },
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 2,
+      "CAPACITY": 321647
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 2,
+      "CAPACITY": 191490
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 2,
+      "CAPACITY": 274319
+    },
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 3,
+      "CAPACITY": 244219
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 3,
+      "CAPACITY": 118326
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 3,
+      "CAPACITY": 396025
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 3,
+      "CAPACITY": 357371
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 3,
+      "CAPACITY": 366841
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 3,
+      "CAPACITY": 193786
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 3,
+      "CAPACITY": 339945
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 3,
+      "CAPACITY": 342152
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 3,
+      "CAPACITY": 359855
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 3,
+      "CAPACITY": 54818
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 3,
+      "CAPACITY": 295856
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 3,
+      "CAPACITY": 333891
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 3,
+      "CAPACITY": 259374
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 3,
+      "CAPACITY": 360479
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 3,
+      "CAPACITY": 239190
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 3,
+      "CAPACITY": 172450
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 3,
+      "CAPACITY": 87541
+    },
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 3,
+      "CAPACITY": 334879
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 3,
+      "CAPACITY": 297923
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 3,
+      "CAPACITY": 46324
+    }
+  ],
+  "ProductionCost": [
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1914
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1487
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2229
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1950
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1735
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1505
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1442
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2086
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1546
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1779
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1652
+    },
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2275
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2119
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2094
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2008
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1635
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1693
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2266
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 2153
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 1,
+      "PRODUCTION COST": 1478
+    },
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1492
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1410
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2220
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2165
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1668
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1498
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1956
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1679
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2014
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2222
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1755
+    },
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1913
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2130
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1758
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2195
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1876
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2101
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1436
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 1743
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 2,
+      "PRODUCTION COST": 2011
+    },
+    {
+      "IU CODE": "IU_020",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1853
+    },
+    {
+      "IU CODE": "IU_005",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2134
+    },
+    {
+      "IU CODE": "IU_003",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2121
+    },
+    {
+      "IU CODE": "IU_011",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2176
+    },
+    {
+      "IU CODE": "IU_014",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2116
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1956
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1842
+    },
+    {
+      "IU CODE": "IU_016",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2109
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1487
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2206
+    },
+    {
+      "IU CODE": "IU_012",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1622
+    },
+    {
+      "IU CODE": "IU_002",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1946
+    },
+    {
+      "IU CODE": "IU_001",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1414
+    },
+    {
+      "IU CODE": "IU_017",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1773
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1709
+    },
+    {
+      "IU CODE": "IU_019",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1700
+    },
+    {
+      "IU CODE": "IU_010",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1479
+    },
+    {
+      "IU CODE": "IU_018",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 2133
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1546
+    },
+    {
+      "IU CODE": "IU_006",
+      "TIME PERIOD": 3,
+      "PRODUCTION COST": 1692
+    }
+  ],
+  "LogisticsIUGU": [
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "IU_002",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "IU_002",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "IU_002",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 955.8000000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1628.3999999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1239,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1430.1638999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1531.2866,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1690.1936999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2007.18,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1561.1399999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1146.96,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1952.8208000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1290.2566,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1429.7437999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 986.3928,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 986.3928,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1315.1904,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 514.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 878.08,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_002",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 706.58,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_001",
+      "TO IUGU CODE": "IU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_001",
+      "TO IUGU CODE": "IU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_001",
+      "TO IUGU CODE": "IU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 628.03,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 577.7876,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 609.1890999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "IU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "IU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "IU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1618.8192000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1349.016,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1067.971,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1368,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1710,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1439.25,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 969,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1899.75,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_003",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1351.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "IU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "IU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "IU_004",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 457.58000000000004,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 501,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 501,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 410,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 259.12,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 285.36,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1101.52,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 865.48,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1562.36,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 335.29999999999995,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 498.16,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 613.12,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1400.1399999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2608.48,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1783.74,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 971.9928,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1241.9908,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1538.9886,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2206.1952,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2516.4413999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1361.6361,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "IU_005",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "IU_005",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "IU_005",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2061.708,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1986.7368000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1349.4815999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 683.5600000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 854.4499999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 906.46,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1363.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1417.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1902.7949999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2611.2825000000003,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2995.89,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1799.3088,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2117.9363999999996,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2061.708,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2361.3183,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2275.1388,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_005",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2137.2516,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "IU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1.4,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "IU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0.73,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "IU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1.47,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1249.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1785,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1555.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 652.54,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 735.49,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 541.9399999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1903.73,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2098.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1214.19,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 943.61,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 988.19,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_006",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 609.26,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2437.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1153.75,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1673.75,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "IU_007",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "IU_007",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "IU_007",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1270.7,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 979.7,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1425.8999999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1328.7,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1251.3,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1715.7,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 724.91,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1204.78,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1347.72,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2009.2499999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1923.7500000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1225.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "IU_008",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1.32,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "IU_008",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1.2,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "IU_008",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1.21,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 768.6700000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1255.17,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 846.51,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1629.8,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1371.28,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1674.76,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1518,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2388.3199999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1821.6000000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "EXT_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1350,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "EXT_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1444.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "EXT_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1930.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 958.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1620,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_008",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1647,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 665.76,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 638.4,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_001",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1085.28,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "IU_009",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "IU_009",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "IU_009",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 896.7,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1135.8200000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 871.08,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1628.88,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1320.38,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1419.1,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1130,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 931.12,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_009",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1292.72,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1512.4708,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1726.1895000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2301.586,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2017.17,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2212.38,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2472.66,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2344.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2295.2400000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2319.92,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2045.46,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2409.72,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 3026.1600000000003,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_010",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_010",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_010",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2103.8,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1507.2,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1303.1,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1047.84,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 781.44,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 781.44,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1186.74,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 874.4399999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1072.23,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1854.4,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1900.76,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2410.7200000000003,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 3627.96,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2418.64,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2640.76,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1050.72,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1707.4199999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1540.26,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2514,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2514,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_010",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2715.1200000000003,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 634.28,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 722.1999999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_002",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 778.72,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1468.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 881.16,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1468.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1260,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1716,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1092,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1.37,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "IU_011",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 960,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1224,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1176,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_001",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1.28,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_001",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0.89,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_001",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0.71,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0.95,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1.18,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "EXT_002",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1.35,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2108.4228,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1381.8717,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_008",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2122.6688999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2233.66,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2312.31,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2123.55,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "IU_012",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "IU_012",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1.01,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "IU_012",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2188.9593,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2309.6106,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1947.6566999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1944,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1917,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1174.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 972.36,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 872.46,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_012",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 552.78,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 668.25,
+      "HANDLING COST": 325,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 693,
+      "HANDLING COST": 325,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 841.5,
+      "HANDLING COST": 325,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1020,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1797.75,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1644.75,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "IU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "IU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0.87,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "IU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1161,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1350,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1053,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2163.0576,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2130.284,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1507.5856,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1608,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1584,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_013",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 972.0000000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_014",
+      "TO IUGU CODE": "IU_014",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_014",
+      "TO IUGU CODE": "IU_014",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_014",
+      "TO IUGU CODE": "IU_014",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1630.23,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 898.2900000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1619.1399999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1179.4624800000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 960.0276,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1728.04968,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1188.95,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1851.1499999999999,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1234.1,
+      "HANDLING COST": 100,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "IU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "IU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "IU_015",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 903.55,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 882.29,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 967.33,
+      "HANDLING COST": 435,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 3234.69,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 3412.98,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_021",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2343.2400000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2120.8500000000004,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2215.1099999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_023",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2073.7200000000003,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 851.1999999999999,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1386.2399999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 912,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1329.3,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1848.36,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1709.1000000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "IU_016",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "IU_016",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "IU_016",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1898.7399999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1967.04,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_016",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1366,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1263.535,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1499.5800000000002,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_007",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1332.96,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "IU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "IU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "IU_017",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1903.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1188,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_017",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1647,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 472.5,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 774.9,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 516.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "IU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "IU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_018",
+      "TO IUGU CODE": "IU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1360.04,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1191.44,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1663.52,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 626.04,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 839.16,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 692.64,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 527.53,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 683.5600000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 713.28,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "IU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "IU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "IU_019",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 824.32,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1227.52,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 806.4,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2961.25,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2297.93,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_019",
+      "TO IUGU CODE": "GU_024",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2226.8599999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 591.71,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 624.89,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_013",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 729.96,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 797.5600000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 715.92,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_016",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 483.56,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1010.48,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 653.84,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_022",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 646.41,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "IU_020",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "IU_020",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "IU_020",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 0,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_025",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 359.15999999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_025",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 259.88,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_020",
+      "TO IUGU CODE": "GU_025",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 335.79999999999995,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_021",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1528.64,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_021",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 989.12,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_021",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1528.64,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 2272.8599999999997,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2289.33,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_018",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1729.3500000000001,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1894.6799999999998,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 2426.52,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_007",
+      "TO IUGU CODE": "GU_006",
+      "TRANSPORT CODE": "T1",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 2060.88,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 1
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1014.5999999999999,
+      "HANDLING COST": 440,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 765.4,
+      "HANDLING COST": 440,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_015",
+      "TO IUGU CODE": "GU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 996.8000000000001,
+      "HANDLING COST": 440,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1812.58,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1797.6,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_009",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1932.42,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 1295.04,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1429.94,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_011",
+      "TO IUGU CODE": "GU_020",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1564.84,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "FREIGHT COST": 912,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "FREIGHT COST": 1164,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    },
+    {
+      "FROM IU CODE": "IU_004",
+      "TO IUGU CODE": "GU_014",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "FREIGHT COST": 1608,
+      "HANDLING COST": 0,
+      "QUANTITY MULTIPLIER": 3000
+    }
+  ],
+  "IUGUConstraint": [
+    {
+      "IU CODE": "IU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 233200
+    },
+    {
+      "IU CODE": "IU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 176000
+    },
+    {
+      "IU CODE": "IU_003",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 252999.99999999997
+    },
+    {
+      "IU CODE": "IU_004",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 196000
+    },
+    {
+      "IU CODE": "IU_004",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 178000
+    },
+    {
+      "IU CODE": "IU_004",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_004",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 172000
+    },
+    {
+      "IU CODE": "IU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 112320
+    },
+    {
+      "IU CODE": "IU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 147264
+    },
+    {
+      "IU CODE": "IU_005",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 147264
+    },
+    {
+      "IU CODE": "IU_006",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_006",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_006",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 10815
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 503100
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 8610
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 464100
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 12915
+    },
+    {
+      "IU CODE": "IU_007",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 436800.00000000006
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 51500
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 43500
+    },
+    {
+      "IU CODE": "IU_007",
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 4450
+    },
+    {
+      "IU CODE": "IU_008",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 156420
+    },
+    {
+      "IU CODE": "IU_008",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 175972.5
+    },
+    {
+      "IU CODE": "IU_008",
+      "TRANSPORT CODE": "T2",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_008",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 209745
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 110400
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 108000
+    },
+    {
+      "IU CODE": "IU_009",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 127200
+    },
+    {
+      "IU CODE": "IU_010",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 47040
+    },
+    {
+      "IU CODE": "IU_010",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 42240
+    },
+    {
+      "IU CODE": "IU_010",
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "E",
+      "VALUE TYPEID": "C",
+      "Value": 0
+    },
+    {
+      "IU CODE": "IU_010",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 49920
+    },
+    {
+      "IU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 211200
+    },
+    {
+      "IU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 246400.00000000003
+    },
+    {
+      "IU CODE": "IU_011",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 226600
+    },
+    {
+      "IU CODE": "IU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 198000.00000000003
+    },
+    {
+      "IU CODE": "IU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 172800
+    },
+    {
+      "IU CODE": "IU_012",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 221400
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 14400
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 15200
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 15520
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 68860
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 19200
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 20000
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 18720
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 62600
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 13600
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 14560
+    },
+    {
+      "IU CODE": "IU_013",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 14560
+    },
+    {
+      "IU CODE": "IU_013",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 60722
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 278400
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "G",
+      "VALUE TYPEID": "C",
+      "Value": 44118
+    },
+    {
+      "IU CODE": "IU_015",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 261600.00000000003
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 196800
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "G",
+      "VALUE TYPEID": "C",
+      "Value": 33174
+    },
+    {
+      "IU CODE": "IU_015",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 304800
+    },
+    {
+      "IU CODE": "IU_015",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 266400
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "G",
+      "VALUE TYPEID": "C",
+      "Value": 41382
+    },
+    {
+      "IU CODE": "IU_015",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 266400
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 45900
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 58050
+    },
+    {
+      "IU CODE": "IU_015",
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 39100
+    },
+    {
+      "IU CODE": "IU_016",
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 45540
+    },
+    {
+      "IU CODE": "IU_016",
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 46920
+    },
+    {
+      "IU CODE": "IU_016",
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 38640
+    },
+    {
+      "IU CODE": "IU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 1,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 48600
+    },
+    {
+      "IU CODE": "IU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 2,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 57600
+    },
+    {
+      "IU CODE": "IU_019",
+      "TRANSPORT CODE": "T2",
+      "TIME PERIOD": 3,
+      "BOUND TYPEID": "L",
+      "VALUE TYPEID": "C",
+      "Value": 68400
+    }
+  ],
+  "IUGUOpeningStock": [
+    {
+      "IUGU CODE": "IU_002",
+      "OPENING STOCK": 14533.462029913042
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "OPENING STOCK": 85529.68132708635
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "OPENING STOCK": 2959.0305099999982
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "OPENING STOCK": 28224.812272178173
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "OPENING STOCK": 15677.025000000001
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "OPENING STOCK": 3898.9300000000003
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "OPENING STOCK": 19551.361677436103
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "OPENING STOCK": 773.1179365846473
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "OPENING STOCK": 6763.682886950157
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "OPENING STOCK": 56975.14963464862
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "OPENING STOCK": 10895.393495717344
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "OPENING STOCK": 21855.908904558873
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "OPENING STOCK": 11189.38896409646
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "OPENING STOCK": 81492.0819079514
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "OPENING STOCK": 15255.838656542357
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "OPENING STOCK": 15558.80605305699
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "OPENING STOCK": 14018.27198334389
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "OPENING STOCK": 17204.337891567415
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "OPENING STOCK": 1940
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "OPENING STOCK": 4205.5214590111555
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "OPENING STOCK": 9926.177342667732
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "OPENING STOCK": 19310.98400000003
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "OPENING STOCK": 40427
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "OPENING STOCK": 2952.421885074629
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "OPENING STOCK": 87177.26966246667
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "OPENING STOCK": 127537.21
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "OPENING STOCK": 8197.033159175226
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "OPENING STOCK": 4628.355000000003
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "OPENING STOCK": 55667.65409301459
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "OPENING STOCK": 9693.228999999992
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "OPENING STOCK": 14614.400000000001
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "OPENING STOCK": 89718.22574731642
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "OPENING STOCK": 176793.49860933746
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "OPENING STOCK": 50164.305214624525
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "OPENING STOCK": 45075.07978037465
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "OPENING STOCK": 5376.125969015319
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "OPENING STOCK": 7651.494116332348
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "OPENING STOCK": 3962.835363831676
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "OPENING STOCK": 41196.32160000001
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "OPENING STOCK": 2763.826259746904
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "OPENING STOCK": 31958.733383719493
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "OPENING STOCK": 36494.008886004616
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "OPENING STOCK": 24846.888832319066
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "OPENING STOCK": 9984.303998361735
+    }
+  ],
+  "HubOpeningStock": [
+    {
+      "IU": "IU_007",
+      "IUGU": "GU_019",
+      "Opening Stock": 77343.2980580314
+    },
+    {
+      "IU": "IU_009",
+      "IUGU": "GU_019",
+      "Opening Stock": 0
+    },
+    {
+      "IU": "IU_015",
+      "IUGU": "GU_019",
+      "Opening Stock": 0
+    }
+  ],
+  "IUGUClosingStock": [
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 14400,
+      "MAX CLOSE STOCK": 50000
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 130000,
+      "MAX CLOSE STOCK": 352000
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 14100
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 39300
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 14400
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 5300
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 23250,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 34000,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 25200
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 52000,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 29800
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 53600
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 5400
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 30800,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 21400
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 35600,
+      "MAX CLOSE STOCK": 200000
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 12900,
+      "MAX CLOSE STOCK": 20000
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 23800,
+      "MAX CLOSE STOCK": 65000
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 7600
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 12750
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 32750
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 21000,
+      "MAX CLOSE STOCK": 55000
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 24500,
+      "MAX CLOSE STOCK": 60000
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 13050
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 62500,
+      "MAX CLOSE STOCK": 150000
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 71500,
+      "MAX CLOSE STOCK": 113000
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 13500
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 16920
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 20800,
+      "MAX CLOSE STOCK": 123000
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 13350
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 23800
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 123000
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 37000,
+      "MAX CLOSE STOCK": 250000
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 30800
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 42000
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 5000,
+      "MAX CLOSE STOCK": 36000
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 8100.000000000001,
+      "MAX CLOSE STOCK": 48000
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 64500
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 67500
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 11200.000000000002
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 25000,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 10400,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 25600,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 1,
+      "MIN CLOSE STOCK": 24400,
+      "MAX CLOSE STOCK": 140000
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 18600,
+      "MAX CLOSE STOCK": 50000
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 129000,
+      "MAX CLOSE STOCK": 352000
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 9700
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 32400.000000000004
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 9200
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 10700
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 32250,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 60500,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 13799.999999999998
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 47600,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 23600
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 27599.999999999996
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 4600
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 36000,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 17400
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 35200,
+      "MAX CLOSE STOCK": 200000
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 8400,
+      "MAX CLOSE STOCK": 20000
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 16600,
+      "MAX CLOSE STOCK": 65000
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 8900
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 20750
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 19000
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 13799.999999999998,
+      "MAX CLOSE STOCK": 55000
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 34500,
+      "MAX CLOSE STOCK": 60000
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 13350
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 59500,
+      "MAX CLOSE STOCK": 150000
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 57499.99999999999,
+      "MAX CLOSE STOCK": 113000
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 18150
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 6120
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 48000,
+      "MAX CLOSE STOCK": 123000
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 21150
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 19800
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 84000,
+      "MAX CLOSE STOCK": 120000
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 28499.999999999996,
+      "MAX CLOSE STOCK": 250000
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 36400
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 20400
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 7700,
+      "MAX CLOSE STOCK": 36000
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 16350.000000000002,
+      "MAX CLOSE STOCK": 48000
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 74000
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 51500
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 18600
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 61000,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 23200,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 14400,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 2,
+      "MIN CLOSE STOCK": 28600,
+      "MAX CLOSE STOCK": 140000
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 24600,
+      "MAX CLOSE STOCK": 50000
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 80000,
+      "MAX CLOSE STOCK": 352000
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 5900
+    },
+    {
+      "IUGU CODE": "GU_002",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 36300
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 14600
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 12500
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 19500,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 65000,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 26600
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 33200,
+      "MAX CLOSE STOCK": 105000
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 19000
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 54400.00000000001
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 4750
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 46400,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 14000
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 31200,
+      "MAX CLOSE STOCK": 200000
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 6200,
+      "MAX CLOSE STOCK": 20000
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 20400,
+      "MAX CLOSE STOCK": 65000
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 7200
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 23250
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 21000
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 24800,
+      "MAX CLOSE STOCK": 55000
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 27000,
+      "MAX CLOSE STOCK": 60000
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 18600
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 61000,
+      "MAX CLOSE STOCK": 150000
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 28999.999999999996,
+      "MAX CLOSE STOCK": 113000
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 13650
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 14520
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 23600,
+      "MAX CLOSE STOCK": 123000
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 18150
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 11800
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 144000
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 66000,
+      "MAX CLOSE STOCK": 250000
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 34300
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 50800
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 6700,
+      "MAX CLOSE STOCK": 36000
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 15300,
+      "MAX CLOSE STOCK": 48000
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 49500
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 70500
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 13200
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 28499.999999999996,
+      "MAX CLOSE STOCK": 165000
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 28600,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 11600,
+      "MAX CLOSE STOCK": 100000
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "TIME PERIOD": 3,
+      "MIN CLOSE STOCK": 18200,
+      "MAX CLOSE STOCK": 140000
+    }
+  ],
+  "IUGUType": [
+    {
+      "IUGU CODE": "GU_002",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_005",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_020",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_021",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_009",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_008",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_001",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_019",
+      "PLANT TYPE": "GU",
+      "# Source": 3
+    },
+    {
+      "IUGU CODE": "GU_015",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_003",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_006",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_018",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_017",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_023",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_007",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_022",
+      "PLANT TYPE": "GU",
+      "# Source": 4
+    },
+    {
+      "IUGU CODE": "GU_013",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_014",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_004",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_011",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_016",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_012",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_024",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "GU_025",
+      "PLANT TYPE": "GU"
+    },
+    {
+      "IUGU CODE": "IU_020",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_005",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_003",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_011",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_014",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_007",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_009",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_016",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_015",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_013",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_012",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_002",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_001",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_017",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_004",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_019",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_010",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_018",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_021",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_008",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "IU_006",
+      "PLANT TYPE": "IU"
+    },
+    {
+      "IUGU CODE": "GU_010",
+      "PLANT TYPE": "GU"
+    }
+  ]
+}
