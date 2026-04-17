@@ -124,7 +124,13 @@ function AppContent() {
           onClick={() => setSidebarOpen(false)}
         />
         
-        <main className={`flex-1 transition-all duration-200 min-h-[calc(100vh-4rem)] ${sidebarOpen ? 'lg:ml-64' : 'ml-0'}`}>
+        <main
+          className="flex-1 min-h-[calc(100vh-4rem)]"
+          style={{
+            marginLeft: sidebarOpen ? '16rem' : '0',
+            transition: 'margin-left 200ms ease-in-out',
+          }}
+        >
           <div className="p-3 sm:p-4 lg:p-6">
             {error ? (
               <div className="flex items-center justify-center h-64">
